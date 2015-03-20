@@ -70,3 +70,7 @@ progress::-webkit-progress-value {
 progress::-moz-progress-bar {
 	background-color: #33B5E5;
 }
+
+.ui-list-view {
+	background-color: #8DC8E8
+}
